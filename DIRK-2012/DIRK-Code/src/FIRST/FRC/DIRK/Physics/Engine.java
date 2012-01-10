@@ -1,13 +1,20 @@
 /*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
+ * DIRK Physics Engine
+ * 
+ * Physics engine class, calculates various
+ * components of projectile motion
+ * 
+ * Author: David Stancu (et al.)
+ * FRC Team 3645 "Runtime Error"
+ * 
+ * Licensed under the GNU/GPL License v2
+ * 
  */
+
 package FIRST.FRC.DIRK.Physics;
 
-/**
- *
- * @author David
- */
+import FIRST.FRC.DIRK.Robot.Core;
+
 public class Engine {
     
 }
