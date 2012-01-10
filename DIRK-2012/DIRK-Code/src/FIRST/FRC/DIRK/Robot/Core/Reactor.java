@@ -14,13 +14,29 @@
  */
 package FIRST.FRC.DIRK.Robot.Core;
 
-public class Reactor {
+import edu.wpi.first.wpilibj.IterativeRobot;
+
+public class Reactor extends IterativeRobot {
     
-    private void doInit()
+    private void coreInit()
     {
         System.out.println("DIRK initializing (powered by Reactor 1)");
         System.out.println("Reactor is running on JRE " + System.getProperty("java.version"));
         
     }
     
+    public void robotInit()
+    {
+        
+    }
+    
+    public void autonomousPeriodic()
+    {
+        
+    }
+    
+    public void teleopPeriodic()
+    {
+        
+    }
 }

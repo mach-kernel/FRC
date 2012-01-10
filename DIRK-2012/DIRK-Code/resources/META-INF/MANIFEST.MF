@@ -1,6 +1,6 @@
 MIDlet-Name: DIRK-Code
 MIDlet-Version: 1.0.0
 MIDlet-Vendor: FIRST
-MIDlet-1: RobotTemplate, ,  FIRST.FRC.DIRK.Robot.Init.RobotTemplate
+MIDlet-1: Reactor, ,  FIRST.FRC.DIRK.Robot.Core.Reactor
 MicroEdition-Profile: IMP-1.0
 MicroEdition-Configuration: CLDC-1.1
