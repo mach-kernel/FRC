@@ -23,6 +23,8 @@ public class RobotTemplate extends IterativeRobot {
      * used for any initialization code.
      */
     public void robotInit() {
+        
+        // Run Reactor's init class here, it will take over
 
     }
 
