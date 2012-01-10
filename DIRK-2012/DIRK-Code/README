@@ -1,1 +1,15 @@
-HAI
+DIRK's code repository.
+
+This is the root directory of the NetBeans project structure. 
+
+NOTE: The project will build but will not execute on any desktop Java VM unless you change the MANIFEST.MF file under META-INF. There you must specify jar location and an initial class, however, you may also do this via command line switches (read the man pages).
+
+**IMPORTANT**: Windows users: Make sure that GIT pushes all text and XML files in the UNIX style text encoding rather than the Windows model. Nothing bad should happen if you don't, but just as precaution
+
+--
+
+Changelog:
+
+1/10/2012: Reactor initialization structure created. XML Serializer development started
+
+1/9/2012: Project started, classes organized.
