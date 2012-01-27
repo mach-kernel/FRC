@@ -13,8 +13,6 @@
 
 package FIRST.FRC.DIRK.Physics;
 
-import FIRST.FRC.DIRK.Robot.Core;
-
 public class Engine {
     
 }
